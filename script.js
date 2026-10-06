@@ -1,5 +1,5 @@
 // --- PASSCODE LOGIN LOGIC (Passcode: 1013) ---
-const CORRECT_PASSCODE = "1111";
+const CORRECT_PASSCODE = "0610";
 let currentInput = "";
 
 function updateDots() {
